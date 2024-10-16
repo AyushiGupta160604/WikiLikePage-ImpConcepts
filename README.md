@@ -25,4 +25,4 @@ cd wikilikepage
 
 ## Project View
 
-![The page](https://gitlab.com/ayushigupta36881/wikilikepage/-/blob/main/view.png)
+![The page](https://github.com/AyushiGupta160604/WikiLikePage-ImpConcepts/blob/main/view.png)
